@@ -1,2 +1,2 @@
 # Test file local
-print("Hello World (local > distant)")
+print("Hello World (remote > local)")
